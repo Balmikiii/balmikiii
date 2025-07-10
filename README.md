@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://github.com/balmikiii">
+  <a href="https://www.linkedin.com/in/balmikikumar" target="_blank">
     <img src="banner.jpg" alt="Balmiki Kumar" width="100%">
   </a>
 </p>
